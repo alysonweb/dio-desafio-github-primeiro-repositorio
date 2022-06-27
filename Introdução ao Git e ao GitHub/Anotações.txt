@@ -1,0 +1,3 @@
+Inicio da Jornada de aprendizado sobre controle e versionamento.
+
+link para download Git: https://git-scm.com/downloads
